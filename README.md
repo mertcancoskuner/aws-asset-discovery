@@ -1,5 +1,5 @@
 ## aws-asset-discovery
-Code snippet to discover all AWS instances and their security groups in all regions.
+Code snippet to discover all EC2 instances and their security groups in all regions.
 
 ### Dependencies 
 
